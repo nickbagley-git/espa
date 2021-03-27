@@ -19,7 +19,8 @@ events-spa.bagleysite.com
 4. Is your app functionality complete? If not, what's missing?
 
 There is some functionality missing regarding the limiting of which users
-can view certain comments. There is also missing invite functionality.
+can view certain comments and events. The events do not always display
+the comments correctly once made. There is also missing invite functionality.
 
 5. Is your app properly deployed? If not, what went wrong?
 
